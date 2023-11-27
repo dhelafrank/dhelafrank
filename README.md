@@ -14,7 +14,7 @@ Pronouns: He/Him
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=dhelafrank&theme=tokyonight" alt="mystreak" width="100%"/>
 
 ## 🎹 Hobbies
-In my free time, i may be found playing the piano 🎶 and exploring the blocky worlds of Minecraft.
+In my free time, i may be found playing the piano 🎶 or exploring the blocky worlds of Minecraft.
 
 [![Spotify](https://novatorem.bgstatic.vercel.app/api/spotify)](https://open.spotify.com/playlist/11Zf0eS777ZOYuaBwhNJ6C?si=Ma2a1rTkRNOdnRXsBYG3YQ%0A)
 
