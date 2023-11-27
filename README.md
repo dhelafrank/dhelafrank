@@ -1,6 +1,6 @@
 
 
-<img src="https://myreadme.vercel.app/api/embed/dhelafrank?panels=userstatistics,toplanguages,commitgraph" alt="reimaginedreadme" />
+<img src="https://myreadme.vercel.app/api/embed/dhelafrank?panels=userstatistics,commitgraph" alt="reimaginedreadme" />
 
 I'm Ubongabasi Jerome (Dhela), a backend developer who enjoys tinkering with Express.js and MongoDB. 🌐 I also like navigating Linux and aspire to being proficient in the arts of DevOps engineering.
 
