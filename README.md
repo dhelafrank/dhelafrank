@@ -25,6 +25,7 @@ In my free time, i may be found playing the piano 🎶 or exploring the blocky w
 
 - 📧 Feel free to shoot me an email for anything.
 - 💼 LinkedIn: [Ubongabasi Jerome](https://www.linkedin.com/in/ubongabasi-jerome)
+- ⛱️ Facebook: [Ubongabasi Jerome](https://m.facebook.com/dhela.frank)
 
 Here's to coding, dreams, and a bit of piano and gaming 😄
 
