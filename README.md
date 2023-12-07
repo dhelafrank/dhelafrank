@@ -1,6 +1,6 @@
 <img src="https://myreadme.vercel.app/api/embed/dhelafrank?panels=userstatistics,toprepositories,commitgraph" alt="DhelaFrank stats" align="center"/>
 <hr>
-I'm <b>Ubongabasi Jerome (Dhela)</b>, a backend developer who enjoys tinkering with Express.js and MongoDB. 🌐 I also like navigating Linux and aspire to being proficient in the arts of DevOps engineering.
+<p align="center"> I'm <b>Ubongabasi Jerome (Dhela)</b>, a backend developer who enjoys tinkering with Express.js and MongoDB. 🌐 I also like navigating Linux and aspire to being proficient in the arts of DevOps engineering.</p>
 
 Pronouns: He/Him 🧍🏾‍♂️
 
