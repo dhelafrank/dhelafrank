@@ -4,7 +4,7 @@ I'm <b>Ubongabasi Jerome (Dhela)</b>, a backend developer who enjoys tinkering w
 
 Pronouns: He/Him 🧍🏾‍♂️
 
-<h1 align="center">Tech Tools I Use 🔧</h1>
+<h2 align="center">Tech Tools I Use 🔧</h2>
 
 - **Backend Skills:** I make cool stuff with Express.js and handle data using MongoDB.
 - **Tech Languages:** I speak JavaScript, especially Node.js.
@@ -14,12 +14,14 @@ Pronouns: He/Him 🧍🏾‍♂️
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=dhelafrank&theme=tokyonight" alt="mystreak" width="100%"/>
 
-<H2 align="center"> 🎹 Hobbies</h1>
+<H2 align="center"> 🎹 Hobbies</h2>
+
 In my free time, i may be found playing the piano 🎶 or exploring the blocky worlds of Minecraft.
 
 [![Spotify](https://novatorem.bgstatic.vercel.app/api/spotify)](https://open.spotify.com/playlist/11Zf0eS777ZOYuaBwhNJ6C?si=Ma2a1rTkRNOdnRXsBYG3YQ%0A)
 
-## 🌐 Let's Connect
+<h2 align="center"> 🌐 Let's Connect</h2>
+
 - 📧 Feel free to shoot me an email for anything.
 - 💼 LinkedIn: [Ubongabasi Jerome](https://www.linkedin.com/in/ubongabasi-jerome)
 
