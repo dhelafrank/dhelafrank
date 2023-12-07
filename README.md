@@ -4,7 +4,7 @@ I'm <b>Ubongabasi Jerome (Dhela)</b>, a backend developer who enjoys tinkering w
 
 Pronouns: He/Him 🧍🏾‍♂️
 
-<h1 align="center">🔧 Tech Tools I Use </h1>
+<h1 align="center">Tech Tools I Use 🔧</h1>
 - **Backend Skills:** I make cool stuff with Express.js and handle data using MongoDB.
 - **Tech Languages:** I speak JavaScript, especially Node.js.
 - **Server Magic:** I deal with servers and know a bit about containerization.
