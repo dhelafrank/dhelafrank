@@ -13,7 +13,7 @@
 - **Backend Skills:** I make cool stuff with Express.js and handle data using MongoDB.
 - **Tech Languages:** I speak JavaScript, especially Node.js.
 - **Server Magic:** I deal with servers and know a bit about containerization.
-- 
+  
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=dhelafrank&show_icons=true&locale=en&layout=compact&theme=radical" alt="ovi" max-width="500px"/>
 </div>
@@ -38,14 +38,21 @@ In my free time, i may be found playing the piano 🎶 or exploring the blocky w
 Here's to coding, dreams, and a bit of piano and gaming 😄
 
 <div align="center">
+  
 [![Discord Presence](https://lanyard.cnrad.dev/api/929741285160529940)](https://discord.com/users/929741285160529940)
 
-<img src="https://widgetbite.com/stats/Dhela Frank" alt="watching_count" align="center" max-width="500px"/></div>
+<img src="https://widgetbite.com/stats/Dhela Frank" alt="watching_count" align="center" max-width="1500px"/>
+
+</div>
 
 
 <br>
 <hr>
 <br>
 
+<div align="center">
+  
 ![dhelafrank GitHub stats](https://github-readme-stats.vercel.app/api?username=dhelafrank&show_icons=true&theme=radical)
+
+</div>
 
