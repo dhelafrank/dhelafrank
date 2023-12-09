@@ -10,8 +10,8 @@
 - **Backend Skills:** I make cool stuff with Express.js and handle data using MongoDB.
 - **Tech Languages:** I speak JavaScript, especially Node.js.
 - **Server Magic:** I deal with servers and know a bit about containerization.
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=dhelafrank&show_icons=true&locale=en&layout=compact&theme=radical" alt="ovi" width="100%"/>
+<div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=dhelafrank&show_icons=true&locale=en&layout=compact&theme=radical" alt="ovi" max-width="500px"/>
+</div>
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=dhelafrank&theme=tokyonight" alt="mystreak" max-width="500px"/>
 
