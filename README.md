@@ -15,11 +15,11 @@
 - **Server Magic:** I deal with servers and know a bit about containerization.
   
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=dhelafrank&show_icons=true&locale=en&layout=compact&theme=radical" alt="ovi" min-width="500px"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=dhelafrank&show_icons=true&locale=en&layout=compact&theme=radical" alt="ovi" width="500px"/>
 </div>
 
 <div align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=dhelafrank&theme=tokyonight" alt="mystreak" min-width="500px"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=dhelafrank&theme=tokyonight" alt="mystreak" width="500px"/>
 </div>
 
 
@@ -45,7 +45,7 @@ Here's to coding, dreams, and a bit of piano and gaming 😄
   
 [![Discord Presence](https://lanyard.cnrad.dev/api/929741285160529940)](https://discord.com/users/929741285160529940)
 
-<img src="https://widgetbite.com/stats/Dhela Frank" alt="watching_count" align="center" min-width="2000px"/>
+<img src="https://widgetbite.com/stats/Dhela Frank" alt="watching_count" align="center" width="2000px"/>
 
 </div>
 
