@@ -15,11 +15,11 @@
 - **Server Magic:** I deal with servers and know a bit about containerization.
   
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=dhelafrank&show_icons=true&locale=en&layout=compact&theme=radical" alt="ovi" max-width="500px"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=dhelafrank&show_icons=true&locale=en&layout=compact&theme=radical" alt="ovi" min-width="500px"/>
 </div>
 
 <div align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=dhelafrank&theme=tokyonight" alt="mystreak" max-width="500px"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=dhelafrank&theme=tokyonight" alt="mystreak" min-width="500px"/>
 </div>
 
 
@@ -27,7 +27,11 @@
 
 In my free time, i may be found playing the piano 🎶 or exploring the blocky worlds of Minecraft.
 
+<div align="center">
+  
 [![Spotify](https://novatorem.bgstatic.vercel.app/api/spotify)](https://open.spotify.com/playlist/11Zf0eS777ZOYuaBwhNJ6C?si=Ma2a1rTkRNOdnRXsBYG3YQ%0A)
+
+</div>
 
 <h2 align="center"> 🌐 Let's Connect</h2>
 
@@ -41,7 +45,7 @@ Here's to coding, dreams, and a bit of piano and gaming 😄
   
 [![Discord Presence](https://lanyard.cnrad.dev/api/929741285160529940)](https://discord.com/users/929741285160529940)
 
-<img src="https://widgetbite.com/stats/Dhela Frank" alt="watching_count" align="center" max-width="1500px"/>
+<img src="https://widgetbite.com/stats/Dhela Frank" alt="watching_count" align="center" min-width="2000px"/>
 
 </div>
 
