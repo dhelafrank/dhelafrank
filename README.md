@@ -13,7 +13,7 @@
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=dhelafrank&show_icons=true&locale=en&layout=compact&theme=radical" alt="ovi" width="100%"/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=dhelafrank&theme=tokyonight" alt="mystreak" width="100%"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=dhelafrank&theme=tokyonight" alt="mystreak" max-width="500px"/>
 
 <H2 align="center"> 🎹 Hobbies</h2>
 
