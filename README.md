@@ -45,7 +45,7 @@ Here's to coding, dreams, and a bit of piano and gaming 😄
   
 [![Discord Presence](https://lanyard.cnrad.dev/api/929741285160529940)](https://discord.com/users/929741285160529940)
 
-<img src="https://widgetbite.com/stats/Dhela Frank" alt="watching_count" align="center" width="2000px"/>
+<img src="https://widgetbite.com/stats/Dhela Frank" alt="watching_count" align="center" width="500px"/>
 
 </div>
 
