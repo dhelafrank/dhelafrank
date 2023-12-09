@@ -1,4 +1,7 @@
+<div align="center">
 <img src="https://myreadme.vercel.app/api/embed/dhelafrank?panels=userstatistics,toprepositories,commitgraph" alt="DhelaFrank stats" align="center"/>
+</div>
+
 <hr>
 <p align="center"> I'm <b>Ubongabasi Jerome (Dhela)</b>, a backend developer who enjoys tinkering with Express.js and MongoDB. 🌐 I also like navigating Linux and aspire to being proficient in the arts of DevOps engineering.
 </br>
@@ -10,10 +13,15 @@
 - **Backend Skills:** I make cool stuff with Express.js and handle data using MongoDB.
 - **Tech Languages:** I speak JavaScript, especially Node.js.
 - **Server Magic:** I deal with servers and know a bit about containerization.
-<div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=dhelafrank&show_icons=true&locale=en&layout=compact&theme=radical" alt="ovi" max-width="500px"/>
+- 
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=dhelafrank&show_icons=true&locale=en&layout=compact&theme=radical" alt="ovi" max-width="500px"/>
 </div>
 
+<div align="center">
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=dhelafrank&theme=tokyonight" alt="mystreak" max-width="500px"/>
+</div>
+
 
 <H2 align="center"> 🎹 Hobbies</h2>
 
@@ -29,10 +37,11 @@ In my free time, i may be found playing the piano 🎶 or exploring the blocky w
 
 Here's to coding, dreams, and a bit of piano and gaming 😄
 
-
+<div align="center">
 [![Discord Presence](https://lanyard.cnrad.dev/api/929741285160529940)](https://discord.com/users/929741285160529940)
 
-<img src="https://widgetbite.com/stats/Dhela Frank" alt="watching_count" align="center" width="100%"/>
+<img src="https://widgetbite.com/stats/Dhela Frank" alt="watching_count" align="center" max-width="500px"/></div>
+
 
 <br>
 <hr>
