@@ -15,7 +15,7 @@
 - **Server Magic:** I deal with servers and know a bit about containerization.
   
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=dhelafrank&show_icons=true&locale=en&layout=compact&theme=radical" alt="ovi" width="500px"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=dhelafrank&show_icons=true&locale=en&layout=compact&theme=react" alt="ovi" width="500px"/>
 </div>
 
 <div align="center">
