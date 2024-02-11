@@ -8,10 +8,6 @@
 </br>
 <b>Pronouns:</b> He/Him 🧍🏾‍♂️</p>
 
-<a href="https://wakatime.com/@018d4d28-a8a6-4ce2-9fd0-8baf353bca7c" align="center" ><img src="https://wakatime.com/badge/user/018d4d28-a8a6-4ce2-9fd0-8baf353bca7c.svg" alt="<Total time coded since Jan 28 2024" /></a>
-
-<p align="center">Total time coded since Jan 28 2024</p>
-
 <h2 align="center">Tech Tools I Use 🔧</h2>
 
 - **Backend Skills:** I make cool stuff with Express.js and handle data using MongoDB.
@@ -73,4 +69,14 @@ Here's to coding, dreams, and a bit of piano and gaming 😄
 ![dhelafrank GitHub stats](https://github-readme-stats.vercel.app/api?username=dhelafrank&show_icons=true&theme=radical)
 
 </div>
+
+<div align="center">
+<a href="https://wakatime.com/@018d4d28-a8a6-4ce2-9fd0-8baf353bca7c" align="center" ><img src="https://wakatime.com/badge/user/018d4d28-a8a6-4ce2-9fd0-8baf353bca7c.svg" alt="<Total time coded since Jan 28 2024" /></a>
+
+<p align="center">Total time coded since Jan 28 2024</p>
+
+</div>
+
+
+
 
