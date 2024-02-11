@@ -66,7 +66,7 @@ Here's to coding, dreams, and a bit of piano and gaming 😄
 
 <div align="center">
   
-![dhelafrank GitHub stats](https://github-readme-stats.vercel.app/api?username=dhelafrank&show_icons=true&theme=radical)
+![dhelafrank GitHub stats](https://github-readme-stats.vercel.app/api?username=dhelafrank&show_icons=true&theme=radical&bg_color=0D1117)
 
 </div>
 
