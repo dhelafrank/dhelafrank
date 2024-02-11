@@ -16,7 +16,7 @@
   
 <div align="center">
 
-  <a href="https://github.com/dhelafrank"><img alt="Ubongabasi Jerome's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhelafrank&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" width="500px"/></a>
+  <a href="https://github.com/dhelafrank/"><img alt="Ubongabasi Jerome's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhelafrank&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" width="500px"/></a>
 
   <br/>
 
@@ -66,7 +66,7 @@ Here's to coding, dreams, and a bit of piano and gaming 😄
 
 <div align="center">
   
-![dhelafrank GitHub stats](https://github-readme-stats.vercel.app/api?username=dhelafrank&show_icons=true&theme=radical&bg_color=0D1117)
+![dhelafrank GitHub stats](https://github-readme-stats.vercel.app/api?username=dhelafrank&show_icons=true&theme=radical&color=0D1117)
 
 </div>
 
