@@ -71,7 +71,7 @@ Here's to coding, dreams, and a bit of piano and gaming 😄
 </div>
 
 <div align="center">
-<a href="https://wakatime.com/@018d4d28-a8a6-4ce2-9fd0-8baf353bca7c" align="center" ><img src="https://wakatime.com/badge/user/018d4d28-a8a6-4ce2-9fd0-8baf353bca7c.svg" alt="<Total time coded since Jan 28 2024" /></a>
+<a href="https://wakatime.com/@018d4d28-a8a6-4ce2-9fd0-8baf353bca7c" align="center" ><img src="https://wakatime.com/badge/user/018d4d28-a8a6-4ce2-9fd0-8baf353bca7c.svg?style=social" alt="<Total time coded since Jan 28 2024" /></a>
 
 <p align="center">Total time coded since Jan 28 2024</p>
 
