@@ -8,6 +8,10 @@
 </br>
 <b>Pronouns:</b> He/Him 🧍🏾‍♂️</p>
 
+<a href="https://wakatime.com/@018d4d28-a8a6-4ce2-9fd0-8baf353bca7c"><img src="https://wakatime.com/badge/user/018d4d28-a8a6-4ce2-9fd0-8baf353bca7c.svg" alt="<a href="Total time coded since Jan 28 2024" /></a>
+
+<p align="center">Total time coded since Jan 28 2024</p>
+
 <h2 align="center">Tech Tools I Use 🔧</h2>
 
 - **Backend Skills:** I make cool stuff with Express.js and handle data using MongoDB.
