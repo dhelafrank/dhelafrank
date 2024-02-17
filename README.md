@@ -29,9 +29,11 @@
 
 <a href="https://github.com/dhelafrank/"><img alt="Ubongabasi Jerome's Github Stats" src="https://github-readme-stats.vercel.app/api?username=dhelafrank&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" width="500px"/></a>
 
-
 </div>
 
++<div align="center">
+<img src="https://github-readme-streak-stats.herokuapp .com/?user=dhelafrank&theme=tokyonight" alt="mystreak" max-width="500px" />
+</div>
 
 <H2 align="center"> 🎹 Hobbies</h2>
 
