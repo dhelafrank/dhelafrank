@@ -13,7 +13,9 @@
 <div align="center">
   
 **Backend Skills:** I make cool stuff with Express.js and handle data using MongoDB.
+
 **Tech Languages:** I speak JavaScript, especially Node.js.
+
 **Server Magic:** I deal with servers and know a bit about containerization.
 
   </div>
