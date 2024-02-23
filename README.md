@@ -1,3 +1,5 @@
+<div style="max-width:15rem">
+
 <div align="center">
 <img src="https://myreadme.vercel.app/api/embed/dhelafrank?panels=userstatistics,toprepositories,commitgraph" alt="DhelaFrank stats" align="center"/>
 </div>
@@ -81,6 +83,7 @@ Here's to coding, dreams, and a bit of piano and gaming 😄
 
 </div>
 
+</div>
 
 
 
