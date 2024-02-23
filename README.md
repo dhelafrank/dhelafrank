@@ -1,5 +1,3 @@
-<div style="width:7rem">
-
 <div align="center">
 <img src="https://myreadme.vercel.app/api/embed/dhelafrank?panels=userstatistics,toprepositories,commitgraph" alt="DhelaFrank stats" align="center"/>
 </div>
@@ -12,9 +10,13 @@
 
 <h2 align="center">Tech Tools I Use 🔧</h2>
 
+<div align="center">
+  
 - **Backend Skills:** I make cool stuff with Express.js and handle data using MongoDB.
 - **Tech Languages:** I speak JavaScript, especially Node.js.
 - **Server Magic:** I deal with servers and know a bit about containerization.
+
+  </div>
   
 <div align="center">
 
@@ -80,8 +82,6 @@ Here's to coding, dreams, and a bit of piano and gaming 😄
 <a href="https://wakatime.com/@018d4d28-a8a6-4ce2-9fd0-8baf353bca7c" align="center" ><img src="https://wakatime.com/badge/user/018d4d28-a8a6-4ce2-9fd0-8baf353bca7c.svg?style=social" alt="<Total time coded since Jan 28 2024" /></a>
 
 <p align="center">Total time coded since Jan 28 2024</p>
-
-</div>
 
 </div>
 
