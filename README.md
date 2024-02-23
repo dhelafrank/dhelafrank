@@ -1,4 +1,4 @@
-<div style="max-width:15rem">
+<div style="max-width:7rem">
 
 <div align="center">
 <img src="https://myreadme.vercel.app/api/embed/dhelafrank?panels=userstatistics,toprepositories,commitgraph" alt="DhelaFrank stats" align="center"/>
