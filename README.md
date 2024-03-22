@@ -43,16 +43,6 @@
 
 </div>
 
-<H2 align="center"> 🎹 Hobbies</h2>
-
-In my free time, i may be found playing the piano 🎶 or exploring the blocky worlds of Minecraft.
-
-<div align="center">
-  
-[![Spotify](https://novatorem.bgstatic.vercel.app/api/spotify)](https://open.spotify.com/playlist/11Zf0eS777ZOYuaBwhNJ6C?si=Ma2a1rTkRNOdnRXsBYG3YQ%0A)
-
-</div>
-
 <h2 align="center"> 🌐 Let's Connect</h2>
 
 - 📧 Feel free to shoot me an email for anything.
