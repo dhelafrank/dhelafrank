@@ -49,8 +49,6 @@
 - 💼 LinkedIn: [Ubongabasi Jerome](https://www.linkedin.com/in/ubongabasi-jerome)
 - ⛱️ Facebook: [Ubongabasi Jerome](https://m.facebook.com/dhela.frank)
 
-Here's to coding, dreams, and a bit of piano and gaming 😄
-
 <div align="center">
   
 [![Discord Presence](https://lanyard.cnrad.dev/api/929741285160529940)](https://discord.com/users/929741285160529940)
