@@ -2,21 +2,23 @@
 <img src="https://myreadme.vercel.app/api/embed/dhelafrank?panels=userstatistics,toprepositories,commitgraph" alt="DhelaFrank stats" align="center"/>
 </div>
 
-<hr>
-<p align="center"> I'm <b>Ubongabasi Jerome (Dhela)</b>, a backend developer who enjoys tinkering with Express.js and MongoDB. 🌐 I also like navigating Linux and aspire to being proficient in the arts of DevOps engineering.
-</br>
-</br>
+---
+
+<p align="center"> I am <b>Ubongabasi Jerome (Dhela)</b>, a proficient backend developer specializing in Express.js and MongoDB. 🌐 I am also proficient with Linux environments and strive for mastery in DevOps engineering.
+
+<br/>
+<br/>
 <b>Pronouns:</b> He/Him 🧍🏾‍♂️</p>
 
-<h2 align="center">Tech Tools I Use 🔧</h2>
+<h2 align="center">Tech Tools I Utilize 🔧</h2>
 
 <div align="center">
   
-**Backend Skills:** I make cool stuff with Express.js and handle data using MongoDB.
+**Backend Expertise:** I develop innovative solutions using Express.js and manage data with MongoDB.
 
-**Tech Languages:** I speak JavaScript, especially Node.js.
+**Programming Languages:** Proficient in JavaScript, particularly Node.js.
 
-**Server Magic:** I deal with servers and know a bit about containerization.
+**Server Management:** Experienced in server administration and containerization.
 
   </div>
   
@@ -26,7 +28,7 @@
 
   <br/>
 
-  <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
+  <b>Note:</b> The "Top Languages" metric reflects the languages present in my public codebase and does not directly correlate with experience or skill level.
 
 </div>
 
@@ -45,7 +47,7 @@
 
 <h2 align="center"> 🌐 Let's Connect</h2>
 
-- 📧 Feel free to shoot me an email for anything.
+- 📧 You can reach me via email for any inquiries.
 - 💼 LinkedIn: [Ubongabasi Jerome](https://www.linkedin.com/in/ubongabasi-jerome)
 - ⛱️ Facebook: [Ubongabasi Jerome](https://m.facebook.com/dhela.frank)
 
@@ -74,6 +76,3 @@
 <p align="center">Total time coded since Jan 28 2024</p>
 
 </div>
-
-
-
