@@ -10,53 +10,13 @@
 <br/>
 <b>Pronouns:</b> He/Him 🧍🏾‍♂️</p>
 
-<h2 align="center">Tech Tools I Utilize 🔧</h2>
-
-<div align="center">
-  
-**Backend Expertise:** I develop innovative solutions using Express.js and manage data with MongoDB.
-
-**Programming Languages:** Proficient in JavaScript, particularly Node.js.
-
-**Server Management:** Experienced in server administration and containerization.
-
-  </div>
-  
-<div align="center">
-
-  <a href="https://github.com/dhelafrank/"><img alt="Ubongabasi Jerome's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhelafrank&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" width="500px"/></a>
-
-  <br/>
-
-  <b>Note:</b> The "Top Languages" metric reflects the languages present in my public codebase and does not directly correlate with experience or skill level.
-
-</div>
-
-
-<div align="center">
-
-<a href="https://github.com/dhelafrank/"><img alt="Ubongabasi Jerome's Github Stats" src="https://github-readme-stats.vercel.app/api?username=dhelafrank&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" width="500px"/></a>
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=dhelafrank&theme=tokyonight" alt="mystreak" max-width="500px" />
 
-</div>
-
-<h2 align="center"> 🌐 Let's Connect</h2>
-
-- 📧 You can reach me via email for any inquiries.
-- 💼 LinkedIn: [Ubongabasi Jerome](https://www.linkedin.com/in/ubongabasi-jerome)
-- ⛱️ Facebook: [Ubongabasi Jerome](https://m.facebook.com/dhela.frank)
-
-<div align="center">
-  
-[![Discord Presence](https://lanyard.cnrad.dev/api/929741285160529940)](https://discord.com/users/929741285160529940)
-
-<img src="https://widgetbite.com/stats/Dhela Frank" alt="watching_count" align="center" width="500px"/>
-
-</div>
-
-
 <br>
+
+![Metrics](https://metrics.lecoq.io/dhelafrank?template=classic&isocalendar=1&stargazers=1&habits=1&people=1&achievements=1&gists=1&notable=1&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&isocalendar=false&isocalendar.duration=half-year&stargazers=false&stargazers.days=14&stargazers.charts=true&stargazers.charts.type=classic&stargazers.worldmap=false&stargazers.worldmap.sample=0&habits=false&habits.from=200&habits.days=14&habits.facts=true&habits.charts=false&habits.charts.type=classic&habits.trim=false&habits.languages.limit=8&habits.languages.threshold=0%25&people=false&people.limit=24&people.identicons=false&people.identicons.hide=false&people.size=28&people.types=followers%2C%20following&people.shuffle=false&achievements=false&achievements.threshold=C&achievements.secrets=true&achievements.display=detailed&achievements.limit=0&notable=false&notable.from=organization&notable.repositories=false&notable.indepth=false&notable.types=commit&notable.self=false&gists=false&config.timezone=Africa%2FLagos)
+
 <hr>
 <br>
 
