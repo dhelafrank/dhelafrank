@@ -4,7 +4,7 @@
 
 ---
 
-<p align="center"> I am <b>Ubongabasi Jerome (Dhela)</b>, a proficient backend developer specializing in Express.js, Golang and MongoDB 🌐 I am also proficient with Linux environments and strive for mastery in Software Engineering.
+<p align="center"> I am <b>Ubongabasi Jerome (Dhela)</b>,a software engineer and proficient backend developer specializing in Typescript, Golang and MongoDB 🌐 I am also proficient proficient with the Unix environment varying from System Administration to IT Support, while implementing and designing concrete web infrastructures.
 
 <br/>
 <br/>
