@@ -1,8 +1,4 @@
-<div align="center">
-<img src="https://myreadme.vercel.app/api/embed/dhelafrank?panels=userstatistics,toprepositories,commitgraph" alt="DhelaFrank stats" align="center"/>
-</div>
 
----
 
 <p align="center"> I am <b>Ubongabasi Jerome (Dhela)</b>,a software engineer and proficient backend developer specializing in Typescript, Golang and MongoDB 🌐 I am also proficient proficient with the Unix environment varying from System Administration to IT Support, while implementing and designing concrete web infrastructures.
 
